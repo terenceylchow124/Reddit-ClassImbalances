@@ -5,6 +5,10 @@ In this project, we apply three sampling method for handling the class imbalance
 - Easy Data Augmentation
 - Near-Miss
 
+<p align="center">
+  <img src="https://github.com/terenceylchow124/Reddit-ClassImbalances/blob/main/Overview.png" width="550" height="300">
+</p>
+
 # Dataset Preparation 
 We mainly use Reddit Joke Dataset in this project
 - Go to [this official repository](https://github.com/orionw/RedditHumorDetection)
