@@ -4,7 +4,7 @@ In this project, we target on applying different sampling methods to handle clas
 learning model (BERT) with dimensionality reduction (PCA) is involved.
 - Resampling 
 - Easy Data Augmentation
-- Near-Miss
+- NearMiss
 
 <p align="center">
   <img src="https://github.com/terenceylchow124/Reddit-ClassImbalances/blob/main/Overview.png" width="700" height="130">
