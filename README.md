@@ -1,6 +1,7 @@
 # Reddit-ClassImbalances
 
-In this project, we apply three sampling method for handling the class imbalance problem on Reddit Joke Dataset:
+In this project, we target on applying different sampling methods to handle class imbalance problem on humor detection dataset, Reddit dataset. We apply simply Resampling method as a baseline method to compare with the EDA method. We target to study whether the direct operations can handle such imbalance problem and boost classification performance. Besides, we use NearMiss method to undersample the majority class apart from only generate data. Since numerical data is required in NearMiss, feature extraction approach using deep
+learning model (BERT) with dimensionality reduction (PCA) are is involved.
 - Resampling 
 - Easy Data Augmentation
 - Near-Miss
