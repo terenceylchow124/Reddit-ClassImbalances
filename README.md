@@ -6,7 +6,7 @@ In this project, we apply three sampling method for handling the class imbalance
 - Near-Miss
 
 <p align="center">
-  <img src="https://github.com/terenceylchow124/Reddit-ClassImbalances/blob/main/Overview.png" width="500" height="100">
+  <img src="https://github.com/terenceylchow124/Reddit-ClassImbalances/blob/main/Overview.png" width="700" height="130">
 </p>
 
 # Dataset Preparation 
