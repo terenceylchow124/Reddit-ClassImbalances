@@ -17,7 +17,7 @@ We mainly use Reddit Joke Dataset in this project
 - Put it under /data, change the name as "reddit.txt"
 - We also provide the same dataset, called "reddit.txt" under ./data if you want to use it directly.
 
-# Run sampling method 
+# Run Sampling Method 
 Please go to the corresponding directory and run the main python file. Feel free to modifiy few hyper-parameters related to learning alogirthm and cross-validation, i.e. EVAL_STEPS, TEST_FOLD, VAL_FOLD, INPUT_EPOCH. 
 - For EDA, the python file, eda.py is borrowed from [this official repository](https://github.com/jasonwei20/eda_nlp) but with little modifaction, e.g. we skip EDA when number of words of sentence is shorter than 30. 
 - For NearMiss, we use KNN classifier by default, but please feel free to modify as 'Perceptron'. 
