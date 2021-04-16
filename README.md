@@ -13,8 +13,9 @@ learning model (BERT) with dimensionality reduction (PCA) are is involved.
 # Dataset Preparation 
 We mainly use Reddit Joke Dataset in this project
 - Go to [this official repository](https://github.com/orionw/RedditHumorDetection)
-- Download the "reddit_full_data.csv" under ./full_datasets/reddit_jokes/
-- We also provide the same dataset, called "reddit.txt" under ./data
+- Download the "reddit_full_data.csv" under ./full_datasets/reddit_jokes/. 
+- Put it under /data, change the name as "reddit.txt"
+- We also provide the same dataset, called "reddit.txt" under ./data if you want to use it directly.
 
 # Run sampling method 
 Please go to the corresponding directory and run the main python file. Feel free to modifiy few hyper-parameters related to learning alogirthm and cross-validation, i.e. EVAL_STEPS, TEST_FOLD, VAL_FOLD, INPUT_EPOCH. 
